@@ -1,0 +1,12 @@
+{
+  "name": "mod",
+  "author": "Wuemeli",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest",
+    "autocode-discordjs": "^1.1.0",
+    "randomstring": "^1.2.2",
+    "jimp": "^0.16.1",
+    "axios": "^0.27.2"
+  }
+}
